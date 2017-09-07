@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.top-navbar {padding: 1.5rem;}
+.top-navbar .nav-item {margin-left: 1rem;}
+
+.top-navbar .nav-item .nav-link-top{
+	width: 200px;
+	color: #f50;
+}
+.top-navbar .nav-item img {
+	width: 25px;
+	float: left;
+	margin-right: 0.2rem;
+}
+.bg-orange {
+	background-color: #f50;
+}
+.navbar-brand {
+	margin-right: 56%;
+}
+.navbar-nav .plan {
+	margin-right: 40px;
+}
+
+.banner {
+	background-color: #510063;
+	color: #FFFFFF;
+	height: 444px;
+}
+.banner .house {
+	float: left;
+}
+.banner .check-out {
+	border-radius: 30px;
+	background-color: #f50;
+	color: #FFFFFF;
+	padding: 0.5rem 2rem;
+}
