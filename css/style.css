@@ -38,3 +38,154 @@ body {
 	color: #FFFFFF;
 	padding: 0.5rem 2rem;
 }
+.logo-desc {
+	padding: 3rem;
+	margin-bottom: 30px;
+}
+
+.logo-desc h6 {
+	display: inline-block;
+	color: #510063;
+	font-size: 1.2rem;
+}
+.logo-desc p {
+	color: #603f66;
+	margin-left: 18%;
+	letter-spacing: -.04667em;
+}
+.logo-desc a {
+	text-decoration: underline;
+	color: #f50;
+}
+.logo-desc .bg-orange {
+	background-color: #f50;
+	height: 80%;
+	width: 100%;
+	margin-top: 16%;
+}
+.logo-desc .bg-orange .cycle {
+	width: 100%;
+	margin-top: 25%;
+}
+
+.logo-desc .bg-orange1 {
+	background-color: #f60;
+	height: 80%;
+	width: 100%;
+}
+.logo-desc .bg-orange1 .home {
+	width: 100%;
+	margin-top: 25%;
+}
+.logo-desc .bg-orange2 {
+	background-color: #f70;
+	height: 80%;
+	width: 100%;
+	margin-top: 16%;
+}
+.logo-desc .bg-orange2 .mobile {
+	width: 100%;
+
+}
+.logo-desc h5{
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 10px;
+	
+}
+.bg-orange .subtitle{
+	color: #FFFFFF;
+    text-align: center;
+	margin-left: 10px;
+	
+}
+.bg-orange1 .subtitle{
+	color: #FFFFFF;
+    text-align: center;
+	margin-left: 10px;
+}
+.bg-orange2 .subtitle{
+	color: #FFFFFF;
+    text-align: center;
+	margin-left: 10px;
+}
+.logo {
+	background-color: #510063;
+	margin-top: 5%;
+}
+.logo .image {
+	margin-left: 72%;
+}
+.logo .img-desc {
+	margin-top: 40px;
+}
+.logo .nps {
+	color: #cdafe0;
+}
+.logo .compare {
+	  font-size: 1.2rem;
+      padding: .53333rem 2.66667rem;
+      padding-top: 8px;
+      border-radius: 22px;
+      font-weight: 700;
+      border: 2px solid #eee7ef;
+      border-color: #f50;
+      background-color: #f50;
+      color: #FFFFFF;
+      margin: 70px 83px;
+   
+}
+.vno {
+	height: 50%;
+}
+.description h3 {
+	margin-top: 10%;
+	font-size: 2.13333rem;
+    line-height: 2.66667rem;
+    letter-spacing: -.04063em;
+    color: #510063;
+    margin-left: 30%;
+}
+.description .vno {
+	background-color: #f50;
+	color: #FFFFFF;
+	width: 70%;
+	margin-left: 30%;
+}
+
+.description .vno h4 {
+	text-align: center;
+}
+.description .vno .lead {
+	text-align: center;	
+}
+.vno .about {
+	 font-size: 1.2rem;
+      padding: .53333rem 2.66667rem;
+      border-radius: 22px;
+      font-weight: 700;
+      border: 2px solid #eee7ef;
+      border-color: #510063;
+      background-color: #510063;
+      color: #FFFFFF;
+      margin: 70px 83px;
+}
+.right-title {
+	margin-top: 10%;
+}
+.right-title h5 {
+	color: #f50;
+}
+.right-title p {
+	color: #510063;
+	line-height: 3rem;
+}
+.right-title a{
+	color: #603f66;
+	text-decoration: underline;
+}
+.bottom a {
+	color: #510063;
+	text-decoration: underline;
+}
+
