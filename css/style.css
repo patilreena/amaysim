@@ -38,6 +38,9 @@ body {
 	color: #FFFFFF;
 	padding: 0.5rem 2rem;
 }
+.logo {
+	 height: 372px;
+}
 .logo-desc {
 	padding: 3rem;
 	margin-bottom: 30px;
@@ -114,10 +117,12 @@ body {
 	margin-top: 5%;
 }
 .logo .image {
-	margin-left: 72%;
+	margin-left: 66%;
+    margin-top: 15%;
+    width: 31%;
 }
 .logo .img-desc {
-	margin-top: 40px;
+	margin-top: 20%;
 }
 .logo .nps {
 	color: #cdafe0;
@@ -132,7 +137,7 @@ body {
       border-color: #f50;
       background-color: #f50;
       color: #FFFFFF;
-      margin: 70px 83px;
+      margin: 29% 0;
    
 }
 .vno {
@@ -187,5 +192,15 @@ body {
 .bottom a {
 	color: #510063;
 	text-decoration: underline;
+}
+.bottom p {
+	line-height: 1rem;
+}
+.bottom img {
+	width: 20%;
+}
+.bottom .foot {
+	font-size: .86667rem;
+	color: #603f66;
 }
 
